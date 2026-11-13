@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "دفتر البيع والديون",
+    "slug": "alfgeh-riaan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f5f7fb"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.alfgehriaan.debttracker"
+    }
+  }
+}
